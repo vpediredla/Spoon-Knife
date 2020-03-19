@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needit-Training">d603f0dbdb230010ff40cd3f299619bf</application>
+        <assessment/>
+        <device_type/>
+        <filter table="task">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>task</name>
+        <order>5</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 16:41:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a03bcdbdb230010ff40cd3f29961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit-Training" source="x_463843_needit_tr">b0e2f0dbdb230010ff40cd3f299619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit-Training">b0e2f0dbdb230010ff40cd3f299619b9</sys_scope>
+        <sys_update_name>sys_app_module_5a03bcdbdb230010ff40cd3f29961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 16:41:27</sys_updated_on>
+        <timeline_page/>
+        <title>Closed</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit-Training">b0e2f0dbdb230010ff40cd3f299619b9</application>
+        <file_path/>
+        <instance_id>acdf9f33db70b78091232f17d4961907</instance_id>
+        <instance_name>dev82457</instance_name>
+        <name>sys_app_module_5a03bcdbdb230010ff40cd3f29961917</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Needit-Training">d603f0dbdb230010ff40cd3f299619bf</application><assessment/><device_type/><filter table="task">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>task</name><order>5</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-19 16:41:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5a03bcdbdb230010ff40cd3f29961917</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="Needit-Training" source="x_463843_needit_tr">b0e2f0dbdb230010ff40cd3f299619b9</sys_package><sys_policy/><sys_scope display_value="Needit-Training">b0e2f0dbdb230010ff40cd3f299619b9</sys_scope><sys_update_name>sys_app_module_5a03bcdbdb230010ff40cd3f29961917</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-19 16:41:27</sys_updated_on><timeline_page/><title>Closed</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>169289310</payload_hash>
+        <record_name>Closed</record_name>
+        <reverted_from/>
+        <source>38e2f0dbdb230010ff40cd3f299619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 16:41:27</sys_created_on>
+        <sys_id>d203bcdbdb230010ff40cd3f29961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f3abcc100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 16:41:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1e03bcdba5230010de3302808c870d18</update_guid>
+        <update_guid_history>1e03bcdba5230010de3302808c870d18:169289310</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Closed">e833f0dbdb230010ff40cd3f2996198f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 16:42:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0a90c685ccdd4d9699a124a52dbfc3a4</sys_id>
+        <sys_metadata>5a03bcdbdb230010ff40cd3f29961917</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_package display_value="Needit-Training" source="x_463843_needit_tr">b0e2f0dbdb230010ff40cd3f299619b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Needit-Training">b0e2f0dbdb230010ff40cd3f299619b9</sys_scope>
+        <sys_scope_delete display_value="">c9a0e2a1c5694828ad785397a77f6090</sys_scope_delete>
+        <sys_update_name>sys_app_module_5a03bcdbdb230010ff40cd3f29961917</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5a03bcdbdb230010ff40cd3f29961917">d203bcdbdb230010ff40cd3f29961919</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 16:42:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

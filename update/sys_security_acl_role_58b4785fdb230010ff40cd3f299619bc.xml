@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 16:48:41</sys_created_on>
+        <sys_id>58b4785fdb230010ff40cd3f299619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_463843_needit_tr_needit_training.x_463843_needit_tr.needit_training_user</sys_name>
+        <sys_package display_value="Needit-Training" source="x_463843_needit_tr">b0e2f0dbdb230010ff40cd3f299619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit-Training">b0e2f0dbdb230010ff40cd3f299619b9</sys_scope>
+        <sys_security_acl display_value="x_463843_needit_tr_needit_training">dcb4785fdb230010ff40cd3f299619b8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_58b4785fdb230010ff40cd3f299619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 16:48:41</sys_updated_on>
+        <sys_user_role display_value="x_463843_needit_tr.needit_training_user" name="x_463843_needit_tr.needit_training_user">88b4f81fdb230010ff40cd3f2996196a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
